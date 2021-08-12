@@ -7,8 +7,7 @@
 
 My name is Allef and i'm Software Developer:
 
-- 🔭 I’m currently working on Lampp-it
-- 📖 I’m currently learning Elixir, Spring Boot, Clean Architecture
+- 📖 I’m currently learning Elixir, Clean Architecture, Websockets, Webrtc
 - 🤩 I’m enthusiastic about 📲 developing
 
 ### Languages, Frameworks & Tools ⚙️
@@ -16,7 +15,6 @@ My name is Allef and i'm Software Developer:
 [![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&link=https://www.ruby-lang.org/)](https://www.ruby-lang.org/)
 [![Elixir](https://img.shields.io/badge/-Elixir-purple?style=flat-square&logo=elixir&link=https://elixir-lang.org/)](https://elixir-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&link=https://java.com/)](https://java.com/)
 
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&link=https://flutter.dev/)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://reactjs.org/)](https://reactjs.org/)

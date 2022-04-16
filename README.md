@@ -1,13 +1,13 @@
 # Allef Gomes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/allef-gomes/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/allefgalmeida)](https://t.me/allefgalmeida)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/allefgalmeida)](https://t.me/allef_gomes)
 
 ### Hello! 👋 Welcome to my profile
 
 My name is Allef and i'm Software Developer:
 
-- 📖 I’m currently learning Elixir, Clean Architecture, Websockets, Webrtc
+- 📖 I’m currently learning Elixir, DevOps and software engineer
 - 🤩 I’m enthusiastic about 📲 developing
 
 ### Languages, Frameworks & Tools ⚙️
@@ -16,7 +16,6 @@ My name is Allef and i'm Software Developer:
 [![Elixir](https://img.shields.io/badge/-Elixir-purple?style=flat-square&logo=elixir&link=https://elixir-lang.org/)](https://elixir-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
 
-[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&link=https://flutter.dev/)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://reactjs.org/)](https://reactjs.org/)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/)

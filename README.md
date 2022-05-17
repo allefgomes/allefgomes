@@ -29,3 +29,6 @@ end
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=allefgomes)
+
+### Blog
+[DevTo](https://dev.to/allefgomes)

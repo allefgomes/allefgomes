@@ -10,8 +10,6 @@ defmodule AllefGomes do
 
   def linkedin_profile, do: "allef-gomes"
   
-  def working_at, do: "Fortaleza city hall"
-  
   def learning, do: "Elixir, Kubernets, Ruby and others..."
   
   def telegram, do: "t.me/allefgomes"

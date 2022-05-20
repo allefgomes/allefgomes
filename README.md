@@ -28,5 +28,7 @@ end
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=allefgomes)
 
+<img height="304em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefgomes&layout=compact&langs_count=10&theme=" />
+
 ### Blog
 [DevTo](https://dev.to/allefgomes)

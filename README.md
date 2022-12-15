@@ -32,3 +32,4 @@ end
 
 ### Blog
 [DevTo](https://dev.to/allefgomes)
+[site](https://allefgomes.com)

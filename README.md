@@ -30,6 +30,6 @@ end
 
 <img height="304em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefgomes&layout=compact&langs_count=10&theme=" />
 
-### Blog
-[DevTo](https://dev.to/allefgomes)
-[site](https://allefgomes.com)
+### Sites
+[DevTo](https://dev.to/allefgomes) \
+[Blog](https://allefgomes.com)
